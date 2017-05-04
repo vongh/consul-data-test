@@ -1,0 +1,9 @@
+**/target/
+
+# IDEA Files #
+.idea
+*.iml
+
+# Custom #
+/log/
+``
